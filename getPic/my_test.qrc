@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="my_pic">
+    <file>Open.png</file>
+    <file>BGP.png</file>
+  </qresource>
+</RCC>
